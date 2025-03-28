@@ -1,7 +1,7 @@
 import requests
 
 URL='https://api.pokemonbattle.ru/v2'
-TOKEN='da90db636fdeb79b9098bc8f40f207ab'
+TOKEN='da90db636fdeb79b9hghfvbjhkjhvgd'
 HEADER={'Content-Type':'application/json', 'trainer_token':TOKEN}
 
 body_create={
